@@ -1,0 +1,15 @@
+Toyota, Corolla, 2018, 15000.0, Manuel, 5000.0, Justin Gagné, justin.gagne@example.com, Propriétaire
+Toyota, Corolla, 2019, 16000.0, Automatique, 6000.0, Marc Tremblay, marc.tremblay@example.com, Propriétaire
+Toyota, RAV4, 2020, 14000.0, Automatique, 22000.0, Sophie Lambert, sophie.lambert@example.com, Concessionnaire
+Toyota, RAV4, 2021, 10000.0, Automatique, 25000.0, David Fortin, david.fortin@example.com, Propriétaire
+Honda, Civic, 2017, 18000.0, Manuel, 8000.0, François Lavoie, francois.lavoie@example.com, Propriétaire
+Honda, Civic, 2019, 15000.0, Automatique, 12000.0, Catherine Roy, catherine.roy@example.com, Propriétaire
+Honda, Accord, 2020, 12000.0, Automatique, 20000.0, Paul Morel, paul.morel@example.com, Concessionnaire
+Honda, Accord, 2021, 10000.0, Automatique, 22000.0, Julien Côté, julien.cote@example.com, Propriétaire
+Honda, CR-V, 2018, 25000.0, Automatique, 18000.0, Amélie Gagnon, amelie.gagnon@example.com, Propriétaire
+BMW, X5, 2019, 22000.0, Automatique, 40000.0, Mathieu Desjardins, mathieu.desjardins@example.com, Propriétaire
+BMW, Serie 3, 2020, 12000.0, Automatique, 30000.0, Chantal Beaulieu, chantal.beaulieu@example.com, Concessionnaire
+Mercedes, Classe A, 2019, 18000.0, Automatique, 35000.0, Patrick Martel, patrick.martel@example.com, Propriétaire
+Mercedes, Classe C, 2020, 15000.0, Automatique, 38000.0, Isabelle Simard, isabelle.simard@example.com, Concessionnaire
+Ford, Focus, 2017, 25000.0, Manuel, 11000.0, Sébastien Leblanc, sebastien.leblanc@example.com, Propriétaire
+Ford, F-150, 2019, 17000.0, Automatique, 28000.0, Émilie Bouchard, emilie.bouchard@example.com, Propriétaire

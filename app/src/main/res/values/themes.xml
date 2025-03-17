@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TP3" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.TP3.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+
+    <style name="Theme.TP3.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.TP3.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
